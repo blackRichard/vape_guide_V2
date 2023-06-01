@@ -1,0 +1,26 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Hello World",
+            "content": "This is a sample post"
+        },
+        {
+            "id": 2,
+            "title": "JSON Server",
+            "content": "A lightweight server for mocking JSON APIs"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "johndoe@example.com"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "janesmith@example.com"
+        }
+    ]
+}
